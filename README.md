@@ -58,9 +58,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 ## Kotlin
 
 ### Kotlin Standard Library functions
-![scoped functions](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fcadbd2-f495-4b2c-8070-dcbefcc15c46/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200522T150602Z&X-Amz-Expires=86400&X-Amz-Signature=831f37028cb5fce176eafe5afb0686ee3217caa8e8774aca5e54abcc047bcf39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
-
-[Source](https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f)
+![scoped functions](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecdd49b3-7045-42af-b9ed-afca0c8c8bf9/Screen_Shot_2020-05-23_at_10.14.54_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200523%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200523T171706Z&X-Amz-Expires=86400&X-Amz-Signature=749233425b27cc54907d8a98005cb105b7208281bef3807c12663cc04605024c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2020-05-23_at_10.14.54_AM.png%22)
 
 ## Type system
 ![type system](https://www.kotlindevelopment.com/content/images/2018/09/typical_nothing.png)
