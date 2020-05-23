@@ -1,5 +1,18 @@
 # Android Cheatsheet
-This is a collection of diagrams and charts that I find myself consulting over and over again while doing Android development. Open to contributions!
+
+This is a collection of visual guides that I find myself coming back to repeatedly while doing Android development. Open to contributions!
+
+## Table of contents
+
+[Activities and Fragments](#activities-and-fragments)
+
+[User interface](#user-interface)
+
+[Kotlin](#kotlin)
+
+[Architecture](#architecture)
+
+[General software engineering](#general-software-engineering)
 
 ## Activities and Fragments
 
@@ -29,7 +42,7 @@ This is a collection of diagrams and charts that I find myself consulting over a
 
 [Source](https://guides.codepath.com/android/Navigation-and-Task-Stacks)
 
-## User Interface
+## User interface
 
 ### ImageView ScaleTypes
 ![scale types](https://raw.githubusercontent.com/frostyshadows/android-cheatsheet/master/Screen%20Shot%202020-05-22%20at%208.13.07%20AM.png)
@@ -48,6 +61,20 @@ This is a collection of diagrams and charts that I find myself consulting over a
 ![scoped functions](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fcadbd2-f495-4b2c-8070-dcbefcc15c46/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200522T150602Z&X-Amz-Expires=86400&X-Amz-Signature=831f37028cb5fce176eafe5afb0686ee3217caa8e8774aca5e54abcc047bcf39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 [Source](https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f)
+
+## Type system
+![type system](https://www.kotlindevelopment.com/content/images/2018/09/typical_nothing.png)
+
+[Source](https://www.kotlindevelopment.com/typical-kotlin/)
+
+## Architecture
+
+### Uncle Bob's clean architecture
+
+![clean architecture](https://miro.medium.com/max/1200/0*JD606Sqx6RYZLKdu.)
+
+[Source](https://android.jlelse.eu/thoughts-on-clean-architecture-b8449d9d02df)
+
 
 ## General software engineering
 
