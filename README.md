@@ -61,7 +61,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 ### Kotlin Standard Library functions
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecdd49b3-7045-42af-b9ed-afca0c8c8bf9/Screen_Shot_2020-05-23_at_10.14.54_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200523%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200523T171706Z&X-Amz-Expires=86400&X-Amz-Signature=749233425b27cc54907d8a98005cb105b7208281bef3807c12663cc04605024c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2020-05-23_at_10.14.54_AM.png%22" width="60%">
 
-## Type system
+### Type system
 <img src="https://www.kotlindevelopment.com/content/images/2018/09/typical_nothing.png">
 
 [Source](https://www.kotlindevelopment.com/typical-kotlin/)
