@@ -18,7 +18,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 ### Lifecycle flowchart
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dabe9ea1-d26b-460a-92a1-39c4ed6eece4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200522T144016Z&X-Amz-Expires=86400&X-Amz-Signature=e3a76b7d9b80f87df5d2f62ed421fc8d558022c4d6117f2ebd325b4541fec16b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22">
+<img src="https://i2.wp.com/androhub.com/wp-content/uploads/2015/04/activity_lifecycle.png?resize=538%2C668">
 
 ### Callback methods
 
@@ -81,3 +81,9 @@ This is a collection of visual guides that I find myself coming back to repeated
 <img src="https://i0.wp.com/www.michaelagreiler.com/wp-content/uploads/2019/08/Code_Review_Checklist_Greiler.png?w=800&ssl=1">
 
 [Source](https://www.michaelagreiler.com/code-review-checklist-2/)
+
+### Gang of Four design patterns
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/GangOfFour-1.png" width="100%">
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/GangOfFour-2.png" width="100%">
+
+[Source](http://www.blackwasp.co.uk/GangOfFour.aspx)
