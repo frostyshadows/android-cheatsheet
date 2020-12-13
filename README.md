@@ -82,6 +82,8 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://www.michaelagreiler.com/code-review-checklist-2/)
 
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/Android-code-review-checklist.png">
+
 ### Gang of Four design patterns
 <img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/GangOfFour-1.png" width="100%">
 <img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/GangOfFour-2.png" width="100%">
