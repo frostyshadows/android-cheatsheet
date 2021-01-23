@@ -44,6 +44,19 @@ This is a collection of visual guides that I find myself coming back to repeated
 [Source](https://guides.codepath.com/android/Navigation-and-Task-Stacks)
 
 ## User interface
+### RecyclerView pieces
+<img src="https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list/img/4e9c18b463f00bf7.png" width="60%">
+
+| Piece           | What it does                                                                                                                                                                                                                                                                               |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------|
+| `RecyclerView`  | The `ViewGroup` that contains the views corresponding to your data.                                                                                                                                                                                                                        |
+| item            | One data item of the list to display. Can be of any type; often a data class you define.                                                                                                                                                                                                   |
+| `Adapter`       | Takes data and prepares it for `RecyclerView` to display.                                                                                                                                                                                                                                  |
+| `ViewHolder`s   | A pool of views for `RecyclerView` to use and reuse to display items. Each individual `ViewHolder` is a wrapper around a `View`.                                                                                                                                                           |
+| `View`          | A layout that can display one data item.                                                                                                                                                                                                                                                   |
+| `LayoutManager` | Measures and positions individual item views within a `RecyclerView` and determines the policy for when to recycle item views that are no longer visible. The ones provided in the `RecyclerView` library are `LinearLayoutManager`, `GridLayoutManager`, and `StaggeredGridLayoutManager` |
+
+[Source](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list)
 
 ### ImageView ScaleTypes
 <img src="https://raw.githubusercontent.com/frostyshadows/android-cheatsheet/master/Screen%20Shot%202020-05-22%20at%208.13.07%20AM.png" width="60%">
