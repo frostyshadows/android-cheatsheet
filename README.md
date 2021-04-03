@@ -12,6 +12,8 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Architecture](#architecture)
 
+[Build process](#build-process)
+
 [General software engineering](#general-software-engineering)
 
 ## Activities and Fragments
@@ -87,6 +89,10 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://android.jlelse.eu/thoughts-on-clean-architecture-b8449d9d02df)
 
+## Build process
+<img src="https://stuff.mit.edu/afs/sipb/project/android/docs/images/build.png">
+
+[Source](https://stuff.mit.edu/afs/sipb/project/android/docs/tools/building/index.html)
 
 ## General software engineering
 
