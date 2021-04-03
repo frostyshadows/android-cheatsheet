@@ -74,7 +74,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 ## Kotlin
 
 ### Kotlin Standard Library functions
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecdd49b3-7045-42af-b9ed-afca0c8c8bf9/Screen_Shot_2020-05-23_at_10.14.54_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210328%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210328T181110Z&X-Amz-Expires=86400&X-Amz-Signature=72d3592621941062e4de45daa7c6cc36e79621907971a0ba29eae5ac83d3d66d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2020-05-23_at_10.14.54_AM.png%22" width="60%">
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/Kotlin-library-functions.png" width="60%">
 
 ### Type system
 <img src="https://www.kotlindevelopment.com/content/images/2018/09/typical_nothing.png">
