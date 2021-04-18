@@ -81,6 +81,14 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://www.kotlindevelopment.com/typical-kotlin/)
 
+## Jetpack Compose
+
+### Choosing an API to implement an animation
+
+<img src="https://developer.android.com/images/jetpack/compose/animation-flowchart.svg">
+
+[Source](https://developer.android.com/jetpack/compose/animation)
+
 ## Architecture
 
 ### Uncle Bob's clean architecture
