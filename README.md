@@ -10,6 +10,8 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Kotlin](#kotlin)
 
+[Jetpack Compose](#jetpack-compose)
+
 [Architecture](#architecture)
 
 [Build process](#build-process)
