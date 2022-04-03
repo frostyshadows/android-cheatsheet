@@ -79,9 +79,9 @@ This is a collection of visual guides that I find myself coming back to repeated
 <img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/Kotlin-library-functions.png" width="60%">
 
 ### Type system
-<img src="https://www.kotlindevelopment.com/content/images/2018/09/typical_nothing.png">
+<img src="https://raw.githubusercontent.com/frostyshadows/android-cheatsheet/master/kotlin-nothing-entire-hierarchy.png">
 
-[Source](https://www.kotlindevelopment.com/typical-kotlin/)
+[Source](http://natpryce.com/articles/000818.html)
 
 ## Jetpack Compose
 
