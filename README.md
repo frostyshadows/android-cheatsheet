@@ -91,6 +91,14 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://developer.android.com/jetpack/compose/animation)
 
+### Arrangement
+
+| Horizontal arrangements in Rows | Vertical arrangements in Columns |
+|---------------------------------|----------------------------------|
+| <img src="https://developer.android.com/images/reference/androidx/compose/foundation/layout/row_arrangement_visualization.gif"> | <img src="https://developer.android.com/images/reference/androidx/compose/foundation/layout/column_arrangement_visualization.gif"> |
+
+[Source](https://developer.android.com/reference/kotlin/androidx/compose/foundation/layout/Arrangement)
+
 ## Architecture
 
 ### Uncle Bob's clean architecture
