@@ -85,6 +85,12 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 ## Jetpack Compose
 
+### Three phases of a frame
+
+<img src="https://developer.android.com/static/images/jetpack/compose/phases-state-read-draw.svg" width="60%">
+
+[Source](https://developer.android.com/jetpack/compose/phases)
+
 ### Choosing an API to implement an animation
 
 <img src="https://developer.android.com/images/jetpack/compose/animation-flowchart.svg">
