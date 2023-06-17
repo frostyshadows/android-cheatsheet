@@ -87,7 +87,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 ### Three phases of a frame
 
-<img src="https://developer.android.com/static/images/jetpack/compose/phases-state-read-draw.svg" width="60%">
+<img src="https://developer.android.com/static/images/jetpack/compose/phases-state-read-draw.svg" width="80%">
 
 [Source](https://developer.android.com/jetpack/compose/phases)
 
