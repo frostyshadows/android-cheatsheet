@@ -49,7 +49,6 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 ## User interface
 ### RecyclerView pieces
-<img src="https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list/img/4e9c18b463f00bf7.png" width="60%">
 
 | Piece           | What it does                                                                                                                                                                                                                                                                               |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -92,15 +91,15 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 ### Three phases of a frame
 
-<img src="https://developer.android.com/static/images/jetpack/compose/phases-state-read-draw.svg" width="80%">
+<img src="https://developer.android.com/static/develop/ui/compose/images/compose-phases.png" width="80%">
 
 [Source](https://developer.android.com/jetpack/compose/phases)
 
 ### Choosing an API to implement an animation
 
-<img src="https://developer.android.com/images/jetpack/compose/animation-flowchart.svg">
+<img src="https://developer.android.com/static/develop/ui/compose/images/animations/compose_animation_decision_tree_v2.jpg">
 
-[Source](https://developer.android.com/jetpack/compose/animation)
+[Source](https://developer.android.com/develop/ui/compose/animation/choose-api)
 
 ### Arrangement
 
