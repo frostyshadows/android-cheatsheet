@@ -83,7 +83,7 @@ This is a collection of visual guides that I find myself coming back to repeated
 [Source](http://natpryce.com/articles/000818.html)
 
 ### Kotlin Flow Cheatsheet
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z4Y5uZ_CU1g3gr1ubA5OVg.png" width="80%">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z4Y5uZ_CU1g3gr1ubA5OVg.png">
 
 [Source](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
 
