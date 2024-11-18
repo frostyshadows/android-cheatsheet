@@ -61,8 +61,8 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list)
 
-### ImageView ScaleTypes
-<img src="https://raw.githubusercontent.com/frostyshadows/android-cheatsheet/master/Screen%20Shot%202020-05-22%20at%208.13.07%20AM.png" width="60%">
+### Image View ScaleTypes
+<img src= "https://github.com/Mark-McCleane/android-cheatsheet/blob/master/ImageView-ScaleTypes.png" width="60%">
 
 [Source](https://thoughtbot.com/blog/android-imageview-scaletype-a-visual-guide)
 
