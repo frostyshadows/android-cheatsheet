@@ -95,19 +95,19 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://developer.android.com/jetpack/compose/phases)
 
+### Centering items in Composables
+
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-rows.png">
+
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-columns.png">
+
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-boxes.png">
+
 ### Choosing an API to implement an animation
 
 <img src="https://developer.android.com/static/develop/ui/compose/images/animations/compose_animation_decision_tree_v2.jpg">
 
 [Source](https://developer.android.com/develop/ui/compose/animation/choose-api)
-
-### Centering items in Composables
-
-<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-rows.png" width="80%">
-
-<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-columns.png" width="80%">
-
-<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-boxes.png" width="80%">
 
 ## Architecture
 
