@@ -101,13 +101,13 @@ This is a collection of visual guides that I find myself coming back to repeated
 
 [Source](https://developer.android.com/develop/ui/compose/animation/choose-api)
 
-### Arrangement
+### Centering items in Composables
 
-| Horizontal arrangements in Rows | Vertical arrangements in Columns |
-|---------------------------------|----------------------------------|
-| <img src="https://developer.android.com/images/reference/androidx/compose/foundation/layout/row_arrangement_visualization.gif"> | <img src="https://developer.android.com/images/reference/androidx/compose/foundation/layout/column_arrangement_visualization.gif"> |
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-rows.png" width="80%">
 
-[Source](https://developer.android.com/reference/kotlin/androidx/compose/foundation/layout/Arrangement)
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-columns.png" width="80%">
+
+<img src="https://github.com/frostyshadows/android-cheatsheet/blob/master/center-boxes.png" width="80%">
 
 ## Architecture
 
